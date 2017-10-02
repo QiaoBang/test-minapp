@@ -1,0 +1,7 @@
+<view class='container'>
+  <image class='user-lu' src='/image/dog.jpg'></image>
+  <text class='user-name'>StarryChaos</text>
+  <view class='moto-container'>
+    <text class='moto'>Start</text>
+  </view>
+</view>

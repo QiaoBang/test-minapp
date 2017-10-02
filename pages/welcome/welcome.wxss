@@ -1,0 +1,38 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user-lu{
+  width:320rpx;
+  height:320rpx;
+  margin-top: 50rpx;
+}
+
+.user-name{
+  font-size:62rpx;
+  font-weight: bolder;
+  margin-top: 100rpx;
+}
+
+.moto-container{
+  border: 1px solid #405f80;
+  width: 200rpx;
+  height: 80rpx;
+  border-radius: 5px;
+  text-align: center;
+  margin-top: 100rpx;
+}
+
+.moto{
+  font-size: 32rpx;
+  font-weight: bolder;
+  line-height: 80rpx;
+  color: #405f80;
+}
+
+page{
+  height: 100%;
+  background-color: #b3d4db;
+}
