@@ -20,6 +20,16 @@ Page({
     this.setData({
       posts_key:postsData.postsList
       });
+      
   },
+
+  onPostsTap:function(event){
+    var postsId = event.currentTarget.dataset.postsid;
+    //console.log('onPosts id is' + postsId);
+    wx.navigateTo({
+      url: 'posts-detail/posts-detail',
+    })
+  }
+
 
 })

@@ -9,7 +9,9 @@ var local_database = [
     imageSrc: '/image/car2.jpg',
     num1: 66,
     collecting: '/image/icon2.png',
-  }, {
+    postsId:0
+  }, 
+  {
     date: "Aug 31 13",
     num1: 66,
     avator: "/image/tou2.jpg",
@@ -19,7 +21,9 @@ var local_database = [
     num2: 88,
     imageSrc: '/image/car.jpg',
     reading: '/image/icon1.png',
-  }, {
+    postsId: 1
+  }, 
+  {
     date: "Aug 31 13",
     num1: 66,
     avator: "/image/tou2.jpg",
@@ -29,7 +33,9 @@ var local_database = [
     num2: 88,
     imageSrc: '/image/car.jpg',
     reading: '/image/icon1.png',
-  }, {
+    postsId: 2
+  },
+   {
     date: "Aug 31 13",
     num1: 66,
     avator: "/image/tou2.jpg",
@@ -39,7 +45,9 @@ var local_database = [
     num2: 88,
     imageSrc: '/image/car.jpg',
     reading: '/image/icon1.png',
-  }, {
+    postsId: 3
+  }, 
+  {
     date: "Aug 31 13",
     num1: 66,
     avator: "/image/tou2.jpg",
@@ -49,6 +57,7 @@ var local_database = [
     num2: 88,
     imageSrc: '/image/car.jpg',
     reading: '/image/icon1.png',
+    postsId: 4
   }
 ]
 
